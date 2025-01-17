@@ -39,7 +39,7 @@ This website is optimized for:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/music-website.git
+   git clone https://github.com/KojoBolt/alx_html_css/tree/main/headphones
 
 
 
