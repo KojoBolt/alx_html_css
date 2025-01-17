@@ -303,4 +303,5 @@ h2{
 .play{
     position: absolute;
     transform: translate(90px, 50px);
+    cursor: pointer;
 }
